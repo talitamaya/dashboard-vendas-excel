@@ -23,7 +23,7 @@ O dashboard apresenta:
 
 ## 🖥️ Dashboard
 
-![Dashboard de Vendas](./imagens/dashboard.png)
+![Dashboard de Vendas](./imagens/dashboard-excel.png)
 
 ## 📚 O que aprendi
 
